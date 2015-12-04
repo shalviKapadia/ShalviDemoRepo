@@ -4,7 +4,7 @@
 
 -To add this file on github follow this step:
 
-right click on this file -> goto tortoisSVN -> ADD
+right click on this file -> goto tortoisSVN -> ADD ->commit again
 
 -Now this file will be added in github..
 
