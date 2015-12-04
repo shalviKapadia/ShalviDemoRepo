@@ -1,0 +1,11 @@
+-Hey i added a new file....
+
+-So it shows "?" on icon...bcoz it is not added/uploaded in github
+
+-To add this file on github follow this step:
+
+right click on this file -> goto tortoisSVN -> ADD
+
+-Now this file will be added in github..
+
+-To check it just del this folder and check out it from git hub. 
